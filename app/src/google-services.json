@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907237044532",
+    "project_id": "netflixing-238a5",
+    "storage_bucket": "netflixing-238a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907237044532:android:7dc8da6e97e0f4450cf561",
+        "android_client_info": {
+          "package_name": "com.example.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907237044532-1ibk299cc7odi7oi1g7ud5vfjhveo4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFSBMS8ZceMt3OSspTmrAHyqn7FjP1rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907237044532-1ibk299cc7odi7oi1g7ud5vfjhveo4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
